@@ -1,2 +1,4 @@
-# codeeval
-My CodeEval solutions (mostly Python 2, C, C++)
+# CodeEval solutions
+My solutions to some [CodeEval](http://www.codeeval.com) challenges.
+
+My public profile [here](http://www.codeeval.com/profile/marcom.04/).
